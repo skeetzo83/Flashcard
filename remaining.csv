@@ -1,0 +1,304 @@
+,0,1
+0,0,"Tagalog    ito
+Ilonggo    ini
+Name: 0, dtype: object"
+1,1,"Tagalog    Iyon
+Ilonggo     ina
+Name: 1, dtype: object"
+2,2,"Tagalog    dito
+Ilonggo    diri
+Name: 2, dtype: object"
+3,3,"Tagalog    doon
+Ilonggo    dira
+Name: 3, dtype: object"
+4,4,"Tagalog     sino
+Ilonggo    sin-o
+Name: 4, dtype: object"
+5,5,"Tagalog     Ano
+Ilonggo    nano
+Name: 5, dtype: object"
+6,6,"Tagalog    saan
+Ilonggo    diin
+Name: 6, dtype: object"
+7,7,"Tagalog    kailan
+Ilonggo    san-o 
+Name: 7, dtype: object"
+8,8,"Tagalog    paano
+Ilonggo    anhon
+Name: 8, dtype: object"
+9,9,"Tagalog         hindi
+Ilonggo    dili, indi
+Name: 9, dtype: object"
+10,10,"Tagalog    marami
+Ilonggo      damo
+Name: 10, dtype: object"
+11,11,"Tagalog    iba pa
+Ilonggo      iban
+Name: 11, dtype: object"
+12,12,"Tagalog    malaki
+Ilonggo      dako
+Name: 12, dtype: object"
+13,13,"Tagalog    mahaba
+Ilonggo     lawig
+Name: 13, dtype: object"
+14,14,"Tagalog    malawak
+Ilonggo      lapad
+Name: 14, dtype: object"
+15,15,"Tagalog    makapal
+Ilonggo    madamol
+Name: 15, dtype: object"
+16,16,"Tagalog     maliit
+Ilonggo    diyutay
+Name: 16, dtype: object"
+17,17,"Tagalog    maikli
+Ilonggo     putot
+Name: 17, dtype: object"
+18,18,"Tagalog     Babae
+Ilonggo    babaye
+Name: 18, dtype: object"
+19,19,"Tagalog    asawa
+Ilonggo     bana
+Name: 19, dtype: object"
+20,20,"Tagalog     ina
+Ilonggo    iloy
+Name: 20, dtype: object"
+21,21,"Tagalog     Ama
+Ilonggo    amay
+Name: 21, dtype: object"
+22,22,"Tagalog      ibon
+Ilonggo    pispis
+Name: 22, dtype: object"
+23,23,"Tagalog    aso
+Ilonggo    ido
+Name: 23, dtype: object"
+24,24,"Tagalog     ahas
+Ilonggo    halas
+Name: 24, dtype: object"
+25,25,"Tagalog    Worm
+Ilonggo    ulod
+Name: 25, dtype: object"
+26,26,"Tagalog     Kagubatan
+Ilonggo    kagulangan
+Name: 26, dtype: object"
+27,27,"Tagalog    dumikit
+Ilonggo      lipak
+Name: 27, dtype: object"
+28,28,"Tagalog    bulaklak
+Ilonggo       bulak
+Name: 28, dtype: object"
+29,29,"Tagalog       damo
+Ilonggo    hilamon
+Name: 29, dtype: object"
+30,30,"Tagalog    lubid
+Ilonggo    higot
+Name: 30, dtype: object"
+31,31,"Tagalog      Bone
+Ilonggo    tul-an
+Name: 31, dtype: object"
+32,32,"Tagalog    buntot
+Ilonggo      ikog
+Name: 32, dtype: object"
+33,33,"Tagalog       tainga
+Ilonggo    dalunggan
+Name: 33, dtype: object"
+34,34,"Tagalog     Knee
+Ilonggo    tuhod
+Name: 34, dtype: object"
+35,35,"Tagalog    pakpak
+Ilonggo    pakpak
+Name: 35, dtype: object"
+36,36,"Tagalog    lamang loob
+Ilonggo          tinae
+Name: 36, dtype: object"
+37,37,"Tagalog    dibdib
+Ilonggo      suso
+Name: 37, dtype: object"
+38,38,"Tagalog            Puso
+Ilonggo    kasingkasing
+Name: 38, dtype: object"
+39,39,"Tagalog    para sumuso
+Ilonggo         supsop
+Name: 39, dtype: object"
+40,40,"Tagalog    dumura
+Ilonggo     dupla
+Name: 40, dtype: object"
+41,41,"Tagalog    hipan(blow)
+Ilonggo          huyop
+Name: 41, dtype: object"
+42,42,"Tagalog    tumawa
+Ilonggo    kadlaw
+Name: 42, dtype: object"
+43,43,"Tagalog    pakinggan
+Ilonggo       pamati
+Name: 43, dtype: object"
+44,44,"Tagalog    para malaman
+Ilonggo          hibalo
+Name: 44, dtype: object"
+45,45,"Tagalog    Magisip
+Ilonggo     dumdom
+Name: 45, dtype: object"
+46,46,"Tagalog    sa takot
+Ilonggo       sin-o
+Name: 46, dtype: object"
+47,47,"Tagalog    para mabuhay
+Ilonggo            buhi
+Name: 47, dtype: object"
+48,48,"Tagalog    upang mang-aso
+Ilonggo          mangayam
+Name: 48, dtype: object"
+49,49,"Tagalog    hampas
+Ilonggo    lampus
+Name: 49, dtype: object"
+50,50,"Tagalog    upang maghiwalay
+Ilonggo                gisi
+Name: 50, dtype: object"
+51,51,"Tagalog    saksakin
+Ilonggo      dugkal
+Name: 51, dtype: object"
+52,52,"Tagalog    upang kumamot
+Ilonggo     kalot, karos
+Name: 52, dtype: object"
+53,53,"Tagalog    maghukay
+Ilonggo      suk-ay
+Name: 53, dtype: object"
+54,54,"Tagalog    lumipad
+Ilonggo      lupad
+Name: 54, dtype: object"
+55,55,"Tagalog    maglakad
+Ilonggo       lakat
+Name: 55, dtype: object"
+56,56,"Tagalog    darating
+Ilonggo        abot
+Name: 56, dtype: object"
+57,57,"Tagalog     umupo
+Ilonggo    pungko
+Name: 57, dtype: object"
+58,58,"Tagalog    hawakan
+Ilonggo      kupot
+Name: 58, dtype: object"
+59,59,"Tagalog    Pigain
+Ilonggo     pisil
+Name: 59, dtype: object"
+60,60,"Tagalog    upang hilahin
+Ilonggo           butong
+Name: 60, dtype: object"
+61,61,"Tagalog    para itulak
+Ilonggo          tulod
+Name: 61, dtype: object"
+62,62,"Tagalog     upang itapon
+Ilonggo    haboy, labyog
+Name: 62, dtype: object"
+63,63,"Tagalog    upang itali
+Ilonggo          higot
+Name: 63, dtype: object"
+64,64,"Tagalog    upang manahi
+Ilonggo            tahi
+Name: 64, dtype: object"
+65,65,"Tagalog    bilangin
+Ilonggo       isipa
+Name: 65, dtype: object"
+66,66,"Tagalog    upang sabihin
+Ilonggo           siling
+Name: 66, dtype: object"
+67,67,"Tagalog    kumanta
+Ilonggo      kanta
+Name: 67, dtype: object"
+68,68,"Tagalog    Maglaro
+Ilonggo    hampang
+Name: 68, dtype: object"
+69,69,"Tagalog    upang lumutang
+Ilonggo             lutaw
+Name: 69, dtype: object"
+70,70,"Tagalog    Ilog
+Ilonggo    suba
+Name: 70, dtype: object"
+71,71,"Tagalog     Lawa
+Ilonggo    danaw
+Name: 71, dtype: object"
+72,72,"Tagalog    buhangin
+Ilonggo       balas
+Name: 72, dtype: object"
+73,73,"Tagalog    alikabok
+Ilonggo      yab-ok
+Name: 73, dtype: object"
+74,74,"Tagalog    Daigdig
+Ilonggo       duta
+Name: 74, dtype: object"
+75,75,"Tagalog        ulap
+Ilonggo    panganod
+Name: 75, dtype: object"
+76,76,"Tagalog       Fog
+Ilonggo    gamhon
+Name: 76, dtype: object"
+77,77,"Tagalog      apoy
+Ilonggo    kalayo
+Name: 77, dtype: object"
+78,78,"Tagalog    Ash
+Ilonggo    abo
+Name: 78, dtype: object"
+79,79,"Tagalog     Daan
+Ilonggo    dalan
+Name: 79, dtype: object"
+80,80,"Tagalog     Gabi
+Ilonggo    gab-i
+Name: 80, dtype: object"
+81,81,"Tagalog     araw
+Ilonggo    adlaw
+Name: 81, dtype: object"
+82,82,"Tagalog    taon
+Ilonggo    tuig
+Name: 82, dtype: object"
+83,83,"Tagalog    puno
+Ilonggo    puno
+Name: 83, dtype: object"
+84,84,"Tagalog    luma
+Ilonggo    daan
+Name: 84, dtype: object"
+85,85,"Tagalog    Mabuti
+Ilonggo     maayo
+Name: 85, dtype: object"
+86,86,"Tagalog    masama
+Ilonggo    dautan
+Name: 86, dtype: object"
+87,87,"Tagalog    bulok
+Ilonggo    gabok
+Name: 87, dtype: object"
+88,88,"Tagalog    marumi
+Ilonggo     higko
+Name: 88, dtype: object"
+89,89,"Tagalog    diretso
+Ilonggo    tadlong
+Name: 89, dtype: object"
+90,90,"Tagalog    matalim
+Ilonggo      talom
+Name: 90, dtype: object"
+91,91,"Tagalog    mapurol
+Ilonggo      habol
+Name: 91, dtype: object"
+92,92,"Tagalog    maayos
+Ilonggo     hinlo
+Name: 92, dtype: object"
+93,93,"Tagalog             tuyo
+Ilonggo    kigas, mamala
+Name: 93, dtype: object"
+94,94,"Tagalog    malapit
+Ilonggo      dapit
+Name: 94, dtype: object"
+95,95,"Tagalog    Kanan
+Ilonggo      tuo
+Name: 95, dtype: object"
+96,96,"Tagalog    Kaliwa
+Ilonggo      wala
+Name: 96, dtype: object"
+97,97,"Tagalog     at
+Ilonggo    kag
+Name: 97, dtype: object"
+98,98,"Tagalog    kung
+Ilonggo     kon
+Name: 98, dtype: object"
+99,99,"Tagalog      kasi
+Ilonggo    tungod
+Name: 99, dtype: object"
+100,100,"Tagalog    Pangalan
+Ilonggo      ngalan
+Name: 100, dtype: object"
